@@ -1,0 +1,59 @@
+h1 {
+    Font-Family: 'Oxygen', Sans-Serif;
+    Font-Size: 46px;
+}
+h2 {
+    Font-Family: 'Oxygen', Sans-Serif;
+    Font-Size: 22px;
+}
+p {
+    Font-Family: 'Noto Serif', Serif;
+    Font-Size: 16px;
+}
+header {
+    margin: 20px;
+}
+.group {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 15px;
+}
+.panel {
+    text-align: center;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+}
+.mint {
+    background-color: hsl(158, 99%, 47%);
+}
+.dark-mint {
+    background-color: hsl(158, 66%, 38%);
+}
+.purple-pink {
+    background-color: hsl(287, 87%, 53%);
+}
+.light-gold {
+    background-color: hsl(43, 86%, 56%);
+}
+.dark-gold {
+    background-color: hsl(43, 100%, 32%);
+}
+.oxygen {
+    Font-Family: 'Oxygen', Sans-Serif;
+    Font-Size: 46px;
+}
+.noto-sarif {
+    Font-Family: 'Noto Serif', Serif;
+    Font-Size: 16px;    
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+li {
+    text-align: left;
+}
